@@ -10,7 +10,7 @@ Responsive progress bar that was made using javascript for practice.
 * Javascript
 
 ## Deployed Link
-[Live Site]
+[Live Site](https://gabrielcrosetti.github.io/progress-bar/)
 
 ## Code Snippet
 
